@@ -1,0 +1,16 @@
+canonical_identifier: bkk:krp/KR3fc050/tls/v1/juan/5
+seq: 5
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 召誥日名考
+  edition:
+    short: tls
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc050.xml
+hash: sha256:ac92fd5fd5ac2bf61bcf33d88eca48dacd1bfe939581fffaaea5885019f0cb73

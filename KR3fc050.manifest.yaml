@@ -1,0 +1,162 @@
+canonical_identifier: bkk:krp/KR3fc050/v1
+canonical_location: https://kanripo.org/bkk/KR3fc050/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 召誥日名考
+  identifiers:
+    krp: KR3fc050
+  tags:
+    kr-categories: KR3fc
+  source:
+    repository: tls-texts
+    path: data/tls/KR3fc050.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 1, filename: KR3fc050_001.yaml, hash: 'sha256:3737ec342236e79f863fce63c39b04616f20bd897c2d8e0db855035d46ef6c3b'}
+  - {seq: 2, filename: KR3fc050_002.yaml, hash: 'sha256:61ec23b84a6bacdb73fca998dc4c3803b59584b128f2c73a0f2676905494b91b'}
+  - {seq: 3, filename: KR3fc050_003.yaml, hash: 'sha256:a328679e273382673b2bf6b0056ee41206c89ee028e89577941d79f5dd5846da'}
+  - {seq: 4, filename: KR3fc050_004.yaml, hash: 'sha256:f1f3ca1ae6444ce2ccd9b2d79904b8f5e5c3ea4a6d38c46b75ccaeb6dec742de'}
+  - {seq: 5, filename: KR3fc050_005.yaml, hash: 'sha256:ac92fd5fd5ac2bf61bcf33d88eca48dacd1bfe939581fffaaea5885019f0cb73'}
+  - {seq: 6, filename: KR3fc050_006.yaml, hash: 'sha256:688c5da6aba38721c670523c20515775ce1dcf1c047682060ffc865ff48a853f'}
+  - {seq: 7, filename: KR3fc050_007.yaml, hash: 'sha256:9824b07d90e94f46a1e09753a49bb11003658b9c50b6182d1b416fe9673a7d0d'}
+  - {seq: 8, filename: KR3fc050_008.yaml, hash: 'sha256:1fdb4817a18f345400799da1f0e1981f334af9cb5e4e4acd6914ecd1d15a260c'}
+  - {seq: 9, filename: KR3fc050_009.yaml, hash: 'sha256:a54c9f8c7838173ae4e8f1c7dea700d010ccfebed52369c29ac236b925750b50'}
+  - {seq: 10, filename: KR3fc050_010.yaml, hash: 'sha256:b5a49e3e72ced10363028e466d1863f4ff818bfcfeb78c5b37d4db0e4a8b1ab1'}
+  - {seq: 11, filename: KR3fc050_011.yaml, hash: 'sha256:b908341c3e41b90fc006c92049a9a903151f27283052c38d23b53de851ffed88'}
+  - {seq: 12, filename: KR3fc050_012.yaml, hash: 'sha256:b3bd38ce01377ae8d470b9bab3d5c62d9b6ff410511cef75ba01d24a1e00886d'}
+  markers:
+  - {seq: 2, role: markers, filename: assets/KR3fc050_002.markers.yaml, hash: 'sha256:cb173361dfa5abf7792b84d52ac684ae12f873d64948773dd4fc962672129f4f'}
+  - {seq: 4, role: markers, filename: assets/KR3fc050_004.markers.yaml, hash: 'sha256:0c6fa29ed1d5f266a08be867ee78fc9d8c81dcb0b63766f888c5d6f6afd98d20'}
+  - {seq: 6, role: markers, filename: assets/KR3fc050_006.markers.yaml, hash: 'sha256:51d279c4434c88498eacf829c822915e8f16a74fdcdf4517fb885e1e52edc936'}
+  - {seq: 8, role: markers, filename: assets/KR3fc050_008.markers.yaml, hash: 'sha256:1cd109712e8f42a9e01b8671380285e290bb977f2358bb259629084e23782597'}
+  - {seq: 10, role: markers, filename: assets/KR3fc050_010.markers.yaml, hash: 'sha256:f048052facf9b0328593b6ac997b415faa4170c2a3f07affcf9b79038fb326ce'}
+  - {seq: 12, role: markers, filename: assets/KR3fc050_012.markers.yaml, hash: 'sha256:7b54750a07288e6a887ee88d66a4a0072d5ad4de3d5153d806e9a76e13a5dedb'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 2
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 385
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 272
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 5
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 286
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 305
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 9
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 253
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 11
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 0
+  label: ''
+  type: section
+  level: 1
+- ref:
+    seq: 12
+    marker_id: ''
+    span:
+    - body
+    - 0
+    - 68
+  label: ''
+  type: section
+  level: 1
+hash: sha256:8fbc2af989fc3d92b19d5b9d1f94a90d4f1d2a02bb4591a92fd7b9499b756265
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
