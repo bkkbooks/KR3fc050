@@ -4,8 +4,8 @@ front:
   text: ''
   hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
 body:
-  text: 武王克殷後七歲而崩明年周公攝政元年案棱鄭少一年又以召誥洛誥俱攝政七年事其年二月乙亥朔三月甲辰朔十二月戊辰晦竝與鄭不合召誥日名考儀徵阮福校
-  hash: sha256:79d2ada660f2f2e8ccc112bff68cbf355e4aabf4b9af590621d0a58676019a12
+  text: 武王克殷後七歲而崩明年周公攝政元年案棱鄭少一年又以召誥洛誥俱攝政七年事其年二月乙亥朔三月甲辰朔十二月戊辰晦竝與鄭不合召誥日名攷儀徵阮福校
+  hash: sha256:032531c8962be640e57654a6e0df6d2936f8a59fa67a4f2d282f515c32822cd4
 metadata:
   title: 召誥日名考
   edition:
@@ -13,4 +13,4 @@ metadata:
   source:
     repository: tls-texts
     path: data/tls/KR3fc050.xml
-hash: sha256:b3bd38ce01377ae8d470b9bab3d5c62d9b6ff410511cef75ba01d24a1e00886d
+hash: sha256:cb074d05809099a579add6d13676e8fbbe101e23a41a54bb1468ed6348ac71d7
